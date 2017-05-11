@@ -20,6 +20,12 @@ $ sudo scutil --set HostName amins-Mac.local
 
 - Advanced > General > Load preferences from a custom folder or URL
 
+### Open Sublime Text from iTerm or Terminal
+
+```
+ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+```
+
 ## To Do
 
 I have to figure out how I can automatize the whole thingy
