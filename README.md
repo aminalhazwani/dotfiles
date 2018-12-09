@@ -2,9 +2,11 @@
 
 .files
 
-## To Do
+## Installation
 
-I have to figure out how I can automatize the whole thingy
+```
+cd; curl -#L https://github.com/aminalhazwani/dotfiles/tarball/master | tar -xzv --strip-components 1 --exclude={README.md,bootstrap.sh,LICENSE.md}
+```
 
 ## Thanks to...
 
