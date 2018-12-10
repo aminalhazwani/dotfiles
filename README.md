@@ -26,7 +26,7 @@ $ source ~/.macos
 ### GitHub
 
 - [Generating a new SSH key and adding it to the ssh agent](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
-- Add the SSH key to GitHub account
+- Add the SSH key to your GitHub account
 - [Generating a new GPG key](https://help.github.com/articles/generating-a-new-gpg-key/)
 - Add the GPG key to your GitHub account
 - [Tell git about your signing key](https://help.github.com/articles/telling-git-about-your-signing-key/).
