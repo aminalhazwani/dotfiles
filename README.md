@@ -29,7 +29,7 @@ $ source ~/.macos
 - Add the SSH key to GitHub account
 - [Generating a new GPG key](https://help.github.com/articles/generating-a-new-gpg-key/)
 - Add the GPG key to your GitHub account
-- [Tell giy about your signing key](https://help.github.com/articles/telling-git-about-your-signing-key/).
+- [Tell git about your signing key](https://help.github.com/articles/telling-git-about-your-signing-key/).
 
 ## Thanks to...
 
