@@ -1,0 +1,8 @@
+{
+    "editor.tabSize": 2,
+    "editor.renderWhitespace": "all",
+    "editor.fontFamily": "'SF Mono', Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 13,
+    
+    "workbench.colorTheme": "Solarized Dark",
+}
