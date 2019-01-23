@@ -5,4 +5,7 @@
     "editor.fontSize": 13,
     
     "workbench.colorTheme": "Solarized Dark",
+    
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false
 }
