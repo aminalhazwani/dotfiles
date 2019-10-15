@@ -1,11 +1,12 @@
 {
-    "editor.tabSize": 2,
-    "editor.renderWhitespace": "all",
-    "editor.fontFamily": "'SF Mono', Menlo, Monaco, 'Courier New', monospace",
-    "editor.fontSize": 13,
-    
-    "workbench.colorTheme": "Solarized Dark",
-    
-    "telemetry.enableTelemetry": false,
-    "telemetry.enableCrashReporter": false
+  "editor.detectIndentation": false,
+  "editor.fontFamily": "'SF Mono', Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontSize": 13,
+  "editor.renderWhitespace": "all",
+  "editor.tabSize": 2,
+
+  "telemetry.enableTelemetry": false,
+  "telemetry.enableCrashReporter": false,
+  
+  "workbench.colorTheme": "Solarized Dark"
 }
