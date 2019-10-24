@@ -7,6 +7,6 @@
 
   "telemetry.enableTelemetry": false,
   "telemetry.enableCrashReporter": false,
-  
+
   "workbench.colorTheme": "Solarized Dark"
 }
