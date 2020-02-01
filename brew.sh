@@ -12,8 +12,7 @@ brew upgrade
 BREW_PREFIX=$(brew --prefix)
 
 # Install GnuPG to enable PGP-signing commits.
-brew install gnupg
-brew install pinentry-mac
+brew install gnupg pinentry pinentry-mac
 
 # Install other useful binaries.
 brew install git
