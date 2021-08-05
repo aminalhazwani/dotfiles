@@ -16,7 +16,7 @@ cd; curl -#L https://github.com/aminalhazwani/dotfiles/tarball/master | tar -xzv
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 ```
-source ~/brew.sh
+source ~/.brew.sh
 ```
 
 ### Sensible macOS defaults
