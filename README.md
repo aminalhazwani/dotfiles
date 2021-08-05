@@ -25,6 +25,12 @@ source ~/.brew.sh
 source ~/.macos
 ```
 
+### Etc
+
+```
+~ && mkdir Projects
+```
+
 ### GitHub
 
 - [Generating a new SSH key and adding it to the ssh agent](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
