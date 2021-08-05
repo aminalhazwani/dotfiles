@@ -18,5 +18,8 @@ brew install pinentry-mac
 # Install other useful binaries.
 brew install git
 
+# Disable analytics
+brew analytics off
+
 # Remove outdated versions from the cellar.
 brew cleanup
