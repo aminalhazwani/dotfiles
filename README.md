@@ -23,14 +23,6 @@ $ source ~/brew.sh
 $ source ~/.macos
 ```
 
-### Folders and preferences
-
-```
-$ cd ~ && mkdir Projects
-$ cd ~ && mkdir /Users/amin/Library/Application\ Support/iTerm2/User && mv iterm.json /Users/amin/Library/Application\ Support/iTerm2/User
-$ cd ~ && mv vscode.json /Users/amin/Library/Application\ Support/Code/User && cd /Users/amin/Library/Application\ Support/Code/User && rm -rf settings.json && mv vscode.json settings.json
-```
-
 ### GitHub
 
 - [Generating a new SSH key and adding it to the ssh agent](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
