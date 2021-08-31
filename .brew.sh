@@ -16,7 +16,11 @@ brew install gnupg
 brew install pinentry-mac
 
 # Install other useful binaries
+brew install 1password
+brew install eloston-chromium
+brew install firefox
 brew install git
+brew install sublime-text
 
 # Disable analytics
 brew analytics off
