@@ -19,6 +19,7 @@ brew install pinentry-mac
 brew install 1password
 brew install eloston-chromium
 brew install firefox
+brew install istat-menus
 brew install git
 brew install sublime-text
 
