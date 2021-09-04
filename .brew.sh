@@ -25,6 +25,10 @@ brew install istat-menus
 brew install rectangle
 brew install sublime-text
 
+# Install via App Store
+# Gifski
+# Redacted
+
 # Disable analytics
 brew analytics off
 
