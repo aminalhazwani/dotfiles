@@ -17,10 +17,12 @@ brew install pinentry-mac
 
 # Install other useful binaries
 brew install 1password
+brew install bartender
 brew install eloston-chromium
 brew install firefox
-brew install istat-menus
 brew install git
+brew install istat-menus
+brew install rectangle
 brew install sublime-text
 
 # Disable analytics
