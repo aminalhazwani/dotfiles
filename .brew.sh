@@ -27,6 +27,7 @@ brew install sublime-text
 
 # Install via App Store
 # Gifski
+# iA Writer
 # Redacted
 
 # Disable analytics
