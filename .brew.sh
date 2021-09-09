@@ -19,10 +19,12 @@ brew install pinentry-mac
 brew install 1password
 brew install bartender
 brew install eloston-chromium
+brew install figma
 brew install firefox
 brew install git
 brew install istat-menus
 brew install rectangle
+brew install slack
 brew install sublime-text
 
 # Install via App Store
