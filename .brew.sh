@@ -23,6 +23,7 @@ brew install figma
 brew install firefox
 brew install git
 brew install istat-menus
+brew install iterm2
 brew install rectangle
 brew install slack
 brew install sublime-text
