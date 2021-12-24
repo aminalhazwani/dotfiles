@@ -31,12 +31,12 @@ brew install sublime-text
 # Gifski
 # HEIC Converter
 # iA Writer
-# NetNewsWire
 # Redacted
 
 # Install via web
 # Ableton Live 11 Lite
 # Logi Capture
+# NetNewsWire
 # Obsidian
 # Raycast
 # Sleeve
