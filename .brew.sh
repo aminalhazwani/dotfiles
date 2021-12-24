@@ -26,9 +26,22 @@ brew install iterm2
 brew install sublime-text
 
 # Install via App Store
+# Amphetamine
+# Deliveries
 # Gifski
+# HEIC Converter
 # iA Writer
+# NetNewsWire
 # Redacted
+
+# Install via web
+# Ableton Live 11 Lite
+# Logi Capture
+# Obsidian
+# Raycast
+# Sleeve
+# SoundID Listen
+# UA Connect
 
 # Disable analytics
 brew analytics off
