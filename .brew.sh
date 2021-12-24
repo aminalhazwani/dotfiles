@@ -23,7 +23,6 @@ brew install firefox
 brew install git
 brew install istat-menus
 brew install iterm2
-brew install rectangle
 brew install sublime-text
 
 # Install via App Store
