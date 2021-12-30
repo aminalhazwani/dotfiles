@@ -23,6 +23,7 @@ brew install firefox
 brew install git
 brew install istat-menus
 brew install iterm2
+brew install kap
 brew install sublime-text
 
 # Install via App Store
@@ -40,7 +41,6 @@ brew install sublime-text
 # Obsidian
 # Raycast
 # Sleeve
-# SoundID Listen
 # UA Connect
 
 # Disable analytics
