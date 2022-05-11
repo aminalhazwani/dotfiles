@@ -19,18 +19,19 @@ brew install pinentry-mac
 brew install 1password
 brew install bartender
 brew install eloston-chromium
+brew install figma
 brew install firefox
 brew install git
 brew install istat-menus
 brew install iterm2
+brew install loom
 brew install kap
+brew install slack
 brew install sublime-text
 
 # Install via App Store
 # Amphetamine
-# Deliveries
-# Gifski
-# HEIC Converter
+# Highlights
 # iA Writer
 # Redacted
 
